@@ -21,13 +21,13 @@ We can not know a priori which results of the individual classifiers are correct
 The code tallies all the responses (across all test images and classifier architectures) and ranks the results by frequency of detected category 
 (at a selected probability threshold). From this ranked list the code picks the top items as the most likely results. 
 
-Below is an example of the output of  this process on a 19 second field video depicting cacao and banana in a forest full of rich Baliense plant life visible to the camera:
+Below is an example of the output of  this process on a 19 second field video depicting cacao and banana in a forest full of rich Balinese plant life visible to the camera:
 
 TALLY:  {'sugarpalm': 6, 'cacao': 4, 'taro': 1, 'banana': 3, 'bamboo': 1, 'dragonfruit': 1}
  > FINAL TALLY above single instance  ['sugarpalm', 'cacao', 'banana']
 
 The system correctly detects the presence of cacao and banana, but also believes that sugarpalm is dominantly represented (it is not). 
-The .ipynb file implements this approach. 
+There is much room for improvement, but the approach opens the door to improved classification with compromised classifiers.
 
 Here is a link to the trained detectron2 classifiers upon which the code depends:
 
