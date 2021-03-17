@@ -2,9 +2,9 @@
 
 ![alt text](https://github.com/realtechsupport/video-enhanced-classification/blob/main/video-enhanced-CNN.png?raw=true)
 
-Image classifiers work well on structured images, but they often fail to work well on images with very high visual complexity captured in the wild.
+Image classifiers work well on structured images, but they often fail on images with very high visual complexity captured in the wild in unusual configurations.
 
-The project responds to the challenges encountered in the <i> Return to Bali </i> project that seeks to apply machine learning to the field of Ethnobotany, the stud of how people interact with local flora. Even state of the art image classifiers such as <a href = "https://github.com/facebookresearch/detectron2"> Detectron2 </a> fail to recognize plants from the dataset collected in the wild of the forests of Bali.
+The project responds to the challenges encountered in the <a href = http://www.realtechsupport.org/new_works/return2bali.html</a> project that seeks to apply machine learning to the field of Ethnobotany, the stud of how people interact with local flora. Even current state-of-the art-image classifiers such as <a href = "https://github.com/facebookresearch/detectron2"> Detectron2 </a> fail to robustly recognize plants from the dataset in the wild of the forests of Bali.
 
 Video streams contain more information than individual images. They contain time series information across the image frames and they contain variations in 
 lighting and camera motion, for example. When a short video stream focuses on only one scene in a video shot of several seconds, this time, lighting and 
