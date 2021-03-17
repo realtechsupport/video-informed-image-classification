@@ -29,10 +29,8 @@ The system correctly detects the presence of cacao and banana, but also believes
 The .ipynb file implements this approach. 
 
 Here is a link to the trained detectron2 classifiers upon which the code depends:
-
 https://u.pcloud.link/publink/show?code=kZItwBXZlME4a08Nw4HiIkpzAWGzBJ8b1fs7
 
 Here is a link to the data sets used in the experiment:
-
 https://u.pcloud.link/publink/show?code=kZJ6wBXZuSLYTcuNT0hl0Gldorg3PyHS0Dcy
 
