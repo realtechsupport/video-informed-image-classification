@@ -1,6 +1,6 @@
 # video-enhanced-classification
 
-![video enhanced classification] (https://github.com/realtechsupport/video-enhanced-classification/blob/main/video-enhanced-CNN.png?raw=true)
+![alt text](https://github.com/realtechsupport/video-enhanced-classification/blob/main/video-enhanced-CNN.png?raw=true)
 
 
 
