@@ -1,6 +1,6 @@
 # video-enhanced-classification
 
-Video streams contain more information than individual images. They contain time series in formation across the image frames and they contain variations in 
+Video streams contain more information than individual images. They contain time series information across the image frames and they contain variations in 
 lighting and camera motion, for example. When a short video stream focuses on only one scene in a video shot of several seconds, this time, lighting and 
 attention focus information can be used to create a series of images that are semantically identical, i.e. depicting the exact same plants in the wild, 
 across slightly varying angles and lighting conditions. 
