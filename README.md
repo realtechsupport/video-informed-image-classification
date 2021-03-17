@@ -2,8 +2,7 @@
 
 ![alt text](https://github.com/realtechsupport/video-enhanced-classification/blob/main/video-enhanced-CNN.png?raw=true)
 
-
-
+This project responds the difficulty of neural network based classification of visually complex imagery captured in the wild. The project responds to the challenges encountered in the <i> Return to Bali </> project that seeks to apply machine learning to the field of Ethnobotany.
 
 Video streams contain more information than individual images. They contain time series information across the image frames and they contain variations in 
 lighting and camera motion, for example. When a short video stream focuses on only one scene in a video shot of several seconds, this time, lighting and 
