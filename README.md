@@ -1,4 +1,4 @@
-# video-enhanced-classification
+# video-enhanced-image-classification
 
 ![alt text](https://github.com/realtechsupport/video-enhanced-classification/blob/main/video-enhanced-CNN.png?raw=true)
 
